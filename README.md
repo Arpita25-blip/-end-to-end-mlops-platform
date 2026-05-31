@@ -1,7 +1,7 @@
 # -end-to-end-mlops-platform
 # 🚀 End-to-End MLOps Platform
 
-![CI/CD](https://github.com/YOUR_USERNAME/end-to-end-mlops-platform/actions/workflows/train.yml/badge.svg)
+![CI/CD]![CI/CD](https://github.com/Arpita25-blip/-end-to-end-mlops-platform/actions/workflows/train.yml/badge.svg)
 ![Docker](https://img.shields.io/badge/Docker-Ready-blue?logo=docker)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-Deployed-326ce5?logo=kubernetes)
 ![MLflow](https://img.shields.io/badge/MLflow-Tracked-0194E2?logo=mlflow)
